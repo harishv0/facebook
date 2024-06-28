@@ -1,0 +1,34 @@
+.upload_container{
+    height: 150px;
+    width: 600px;
+    border-radius: 15px;
+
+}
+.upload_top{
+
+    display: flex;
+}
+.upload_box{
+    height: 40px;
+    width: 480px;
+    border: 0px;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    font-size: 16px;
+    padding-left: 20px;
+    margin: 15px;
+}
+.upload_img{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.upload_bottom{
+    margin-left: 60px;
+    display: flex;
+    border-top: 1px solid whitesmoke;
+    padding: 5px;
+}
+.upload_tabs{
+    width: 150px;
+    display: flex;
+}

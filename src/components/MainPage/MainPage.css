@@ -1,0 +1,28 @@
+.mainPage_container{
+    height: 650px;
+    background-color: aliceblue;
+}
+
+.imageLayout_container{
+    display: flex;
+    margin: 15px;
+}
+.imageLayout_imagelay{
+    padding-left: 10px;
+    display: flex;
+}
+.imageLayout_image_profile{
+    max-width: 35px;
+    max-height: 35px;
+
+}
+.imageLayout_profile_name{
+    font-weight: 500px;
+    margin: 10px;
+    font-size: 14px;
+}
+.middle_container{
+    height: 650px;
+    margin-left: 50px;
+    overflow-y: scroll;
+}
